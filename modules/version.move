@@ -1,5 +1,5 @@
 module Version{
-    fun show():u8{
+    fun get():u8{
         1
     }
 }
