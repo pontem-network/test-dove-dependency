@@ -1,5 +1,5 @@
-module Version{
-    public fun get():u8{
+module Version {
+    public fun get(): u8 {
         3
     }
 }
