@@ -1,7 +1,0 @@
-[package]
-name = "for_test_dove_repositories"
-dialect = "pont"
-
-dependencies = [
-    { git = "https://github.com/pontem-network/move-stdlib", tag = "v0.1.2" }
-]
